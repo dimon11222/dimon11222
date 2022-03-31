@@ -1,0 +1,8 @@
+{
+Send, {Ваша цифра копье}
+Sleep, 10
+Send, {LButton}
+Send, {LButton}
+Sleep, 15
+Send, {Ваша цифра щит}
+}
